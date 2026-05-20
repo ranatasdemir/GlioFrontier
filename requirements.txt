@@ -1,1 +1,12 @@
-
+numpy
+pandas
+matplotlib
+nibabel
+scikit-learn
+torch
+torchvision
+monai
+opencv-python
+shap
+xgboost
+jupyter
